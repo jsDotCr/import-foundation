@@ -15,7 +15,7 @@
     "exports": false
   },
   "dependencies": {
-    "eyeglass": "*",
+    "eyeglass": "~0.8.3",
     "foundation-sites": "*",
     "node-sass": "*"
   }
