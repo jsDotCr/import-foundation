@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "eyeglass": "*",
-    "foundation-sites": "*",
+    "foundation-sites": "jsdotcr/foundation-sites#eyeglass-fix",
     "node-sass": "*"
   }
 }
