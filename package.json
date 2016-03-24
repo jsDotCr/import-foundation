@@ -1,14 +1,14 @@
 {
   "name": "import-foundation",
   "version": "1.0.0",
-  "description": "Imports foundation-sites directly",
+  "description": "Imports foundation-sites",
   "main": "index.js",
   "keywords": ["eyeglass-module"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "jsDotCr",
+  "license": "WTFPL",
   "eyeglass": {
     "needs": "*",
     "sassDir": "styles",
